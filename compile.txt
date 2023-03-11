@@ -1,0 +1,1 @@
+clang -o "Executables/Guessing Game" guessing_game.c -lcs50      
